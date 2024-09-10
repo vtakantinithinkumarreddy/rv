@@ -1,2 +1,2 @@
 # rv
-this is array file
+this is class file
