@@ -1,2 +1,2 @@
 # rv
-r v
+this is array file
