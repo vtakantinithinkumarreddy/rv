@@ -5,7 +5,7 @@ b<-"king of the indian ocean"
 class(b)
 c<-TRUE
 class(c)
-d<-10.2
+d<-10
 class(d)
 e<-123L
 class(e)
