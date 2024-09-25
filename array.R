@@ -8,5 +8,5 @@ class(c)
 d<-10
 class(d)
 e<-123L
-class(e)
+class(e
 
